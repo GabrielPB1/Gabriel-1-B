@@ -1,1 +1,1 @@
-Use in Synapse X -- Gabriel
+Selenium WebDriver em conjunto com a linguagem de programação Python.
